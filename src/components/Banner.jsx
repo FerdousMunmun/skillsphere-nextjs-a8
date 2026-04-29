@@ -3,10 +3,10 @@ import React from 'react'
 const Banner = () => {
   return (
     <div>
-          <div className="relative h-[80vh] w-full">
+          <div className="relative h-[80vh] w-full container mx-auto mt-3">
       {/* Background Image */}
       <img
-        src="/banner.jpg"
+        src="/bannerimage.webp"
         alt="Banner"
         className="absolute inset-0 h-full w-full object-cover"
       />
@@ -23,7 +23,7 @@ const Banner = () => {
           <p className="text-lg md:text-xl mb-6">
             Learn from Industry Experts
           </p>
-          <button className="bg-green-500 hover:bg-green-600 px-6 py-3 rounded-lg font-semibold">
+          <button className="bg-green-200 hover:bg-green-600 px-6 py-3 rounded-lg font-semibold text-blue-950">
             Explore Courses
           </button>
         </div>

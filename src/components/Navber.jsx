@@ -5,7 +5,7 @@ import Link from "next/link"
 
 const Navber = () => {
   return (
-   <nav className="container mx-auto sticky top-0 z-40 w-full border-b border-separator ">
+   <nav className="container mx-auto sticky top-0 z-40 w-full">
   <header className="flex h-16 items-center justify-between px-6">
     <div className="font-bold text-6xl text-green-800">p<span className="font-black text-2xl text-blue-950 transform-rotatet-45">Knowledge</span></div>
     <ul className="flex items-center gap-4">
