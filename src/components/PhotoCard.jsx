@@ -9,14 +9,14 @@ const PhotoCard = ({photo}) => {
     console.log(photo)
   return (
     <Card className=''>
-        <div className="border">
+        {/* <div className="border rounded-xl">
             <Image 
              src={photo.image}
              height={200}
              width={200}
              alt={photo.title}/>
            
-        </div>
+        </div> */}
         <div className="">
 
 
@@ -44,3 +44,4 @@ const PhotoCard = ({photo}) => {
 }
 
 export default PhotoCard
+

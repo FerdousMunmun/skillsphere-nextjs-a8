@@ -7,7 +7,7 @@
     "rating": 4.8,
     "level": "Beginner",
     "description": "Learn full-stack web development from scratch.",
-    "image": "https://i.ibb.co.com/5gyzSSvL/development.avif",
+    // "image": "https://i.pinimg.com/1200x/04/6a/ef/046aef3824fc35cd1ad0bff0f253619a.jpg",
     "category": "Development"
   },
   {
@@ -18,7 +18,7 @@
     "rating": 4.7,
     "level": "Intermediate",
     "description": "Master React and build modern web applications.",
-    "image": "https://i.ibb.co.com/whSFbXBz/ideas-development-icons-word-concept-HGG7-MD.jpg",
+    // "image":  "https://i.pinimg.com/736x/59/b6/06/59b606155ab2b720973cfe44bb29d822.jpg",
     "category": "Development"
   },
   {
@@ -29,7 +29,7 @@
     "rating": 4.6,
     "level": "Beginner",
     "description": "Learn design principles and create user-friendly interfaces.",
-    "image": "https://i.ibb.co.com/NqpmN5S/images.jpg",
+    // "image": "https://i.pinimg.com/736x/9b/15/4c/9b154c6ddc848be1467149fd9c4220ad.jpg",
     "category": "Design"
   },
   {
@@ -40,7 +40,7 @@
     "rating": 4.9,
     "level": "Intermediate",
     "description": "Analyze data and build machine learning models using Python.",
-    "image": "https://i.ibb.co.com/Fbkb9mGz/644a18b637053fa3709c5ba2-what-is-data-science.jpg",
+    // "image": "https://i.pinimg.com/736x/99/cd/5f/99cd5f429b5e1e68bd14fcf49516245c.jpg",
     "category": "Data Science"
   },
   {
@@ -51,7 +51,7 @@
     "rating": 4.5,
     "level": "Beginner",
     "description": "Learn SEO, social media marketing, and online advertising.",
-    "image": "https://i.ibb.co.com/rGrjdPwz/360-F-252760983-ZTCURKre-ID1-WJk-C7ui-X6olt7h-H0-Q7v8-X.jpg",
+    // "image": "https://i.pinimg.com/736x/4a/d5/a0/4ad5a0873306c143e64fe2837adfcf42.jpg",
     "category": "Marketing"
   },
   {
@@ -62,7 +62,7 @@
     "rating": 4.7,
     "level": "Intermediate",
     "description": "Build cross-platform mobile apps using Flutter.",
-    "image": "https://i.ibb.co.com/FLX7L4tS/concept-of-web-development-with-connecting-icons-and-hand-touching-screen-on-dark-background-photo.jpg",
+    // "image": "https://i.pinimg.com/1200x/cf/43/97/cf4397d84ad5f674bc24735b53934c4c.jpg",
     "category": "Development"
   }
 ]
