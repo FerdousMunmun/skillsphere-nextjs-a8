@@ -3,7 +3,7 @@ import React from 'react'
 const Banner = () => {
   return (
     <div>
-          <div className="relative h-[80vh] w-full container mx-auto mt-3">
+          <div className="relative h-[80vh] w-full container mx-auto mt-5">
       {/* Background Image */}
       <img
         src="/bannerimage.webp"

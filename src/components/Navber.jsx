@@ -7,7 +7,7 @@ const Navber = () => {
   return (
    <nav className="container mx-auto sticky top-0 z-40 w-full">
   <header className="flex h-16 items-center justify-between px-6">
-    <div className="font-bold text-6xl text-green-800">p<span className="font-black text-2xl text-blue-950 transform-rotatet-45">Knowledge</span></div>
+    <div className="font-bold text-4xl text-green-800">Skill<span className="font-black text-3xl text-blue-950 transform-rotatet-45">sphere</span></div>
     <ul className="flex items-center gap-4">
       <li className="font-semibold text-md text-blue-950"><Link href="#">Home</Link></li>
       <li className="font-semibold text-md text-blue-950"><Link href="#">Courses</Link></li>

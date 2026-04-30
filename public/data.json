@@ -7,7 +7,7 @@
     "rating": 4.8,
     "level": "Beginner",
     "description": "Learn full-stack web development from scratch.",
-    "image": "https://i.postimg.cc/1X7Z8YwK/course1.png",
+    "image": "https://i.ibb.co.com/5gyzSSvL/development.avif",
     "category": "Development"
   },
   {
@@ -18,7 +18,7 @@
     "rating": 4.7,
     "level": "Intermediate",
     "description": "Master React and build modern web applications.",
-    "image": "https://i.postimg.cc/3wJkYk5P/course2.png",
+    "image": "https://i.ibb.co.com/whSFbXBz/ideas-development-icons-word-concept-HGG7-MD.jpg",
     "category": "Development"
   },
   {
@@ -29,7 +29,7 @@
     "rating": 4.6,
     "level": "Beginner",
     "description": "Learn design principles and create user-friendly interfaces.",
-    "image": "https://i.postimg.cc/d3f9dF1K/course3.png",
+    "image": "https://i.ibb.co.com/NqpmN5S/images.jpg",
     "category": "Design"
   },
   {
@@ -40,7 +40,7 @@
     "rating": 4.9,
     "level": "Intermediate",
     "description": "Analyze data and build machine learning models using Python.",
-    "image": "https://i.postimg.cc/V6p2p4QF/course4.png",
+    "image": "https://i.ibb.co.com/Fbkb9mGz/644a18b637053fa3709c5ba2-what-is-data-science.jpg",
     "category": "Data Science"
   },
   {
@@ -51,7 +51,7 @@
     "rating": 4.5,
     "level": "Beginner",
     "description": "Learn SEO, social media marketing, and online advertising.",
-    "image": "https://i.postimg.cc/8CwY7r0k/course5.png",
+    "image": "https://i.ibb.co.com/rGrjdPwz/360-F-252760983-ZTCURKre-ID1-WJk-C7ui-X6olt7h-H0-Q7v8-X.jpg",
     "category": "Marketing"
   },
   {
@@ -62,7 +62,7 @@
     "rating": 4.7,
     "level": "Intermediate",
     "description": "Build cross-platform mobile apps using Flutter.",
-    "image": "https://i.postimg.cc/zvM1Yb5R/course6.png",
+    "image": "https://i.ibb.co.com/FLX7L4tS/concept-of-web-development-with-connecting-icons-and-hand-touching-screen-on-dark-background-photo.jpg",
     "category": "Development"
   }
 ]
